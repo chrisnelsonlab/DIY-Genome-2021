@@ -14,7 +14,7 @@
 * 1.5 The human genome project and DNA Databases
   * Challenge #1
   
-  https://colab.research.google.com/drive/1afweuVhFsarVHJT-e1wC-KXwu0SfplVn?usp=sharing
+
   
 11:30 – 12:30 Lunch Break and Zoom Q&A
 <insert zoom link>
