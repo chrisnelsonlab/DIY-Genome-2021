@@ -7,12 +7,12 @@
   
 10:00– 11:30 DNA Sequence Analysis + Python
   
-*1.1 Python introduction/review
-*1.2 DNA and the Central Dogma of Biology
-*1.3 Strings and DNA
-*1.4 DNA Alignment (with advanced topics)
-*1.5 The human genome project and DNA Databases
-  *Challenge #1
+* 1.1 Python introduction/review
+* 1.2 DNA and the Central Dogma of Biology
+* 1.3 Strings and DNA
+* 1.4 DNA Alignment (with advanced topics)
+* 1.5 The human genome project and DNA Databases
+  * Challenge #1
   
   https://colab.research.google.com/drive/1afweuVhFsarVHJT-e1wC-KXwu0SfplVn?usp=sharing
   
