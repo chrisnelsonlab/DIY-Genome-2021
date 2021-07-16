@@ -2,6 +2,10 @@
 
 ## Schedule and Links
 
+# 9:00 - Pre class survey
+Take this survey which will help us improve this course for next year!
+https://forms.gle/wNdMFgJBy5Ht28Lo9
+
 9:00 – 9:30 Welcome and Motivation 
 <insert Teams link>
   
