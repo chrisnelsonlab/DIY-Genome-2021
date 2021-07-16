@@ -4,16 +4,20 @@
 
 # 9:00 - Pre class survey
 Take this survey which will help us improve this course for next year!
+
 https://forms.gle/wNdMFgJBy5Ht28Lo9
 
-9:00 – 9:30 Welcome and Motivation 
-<insert Teams link>
+# 9:10 – 10:00 Welcome and Motivation - Live lecture
+Please use our class microsoft teams link
   
-9:30 - 10:00 Intro lecture uploaded to youtube
-<insert youtube link>
   
-10:00 – 11:30 
-S1 - DNA Sequence Analysis + Python
+# 10:00 – 11:30 S1 - DNA Sequence Analysis + Python
+
+We will be on the microsoft teams link if you have questions or get stuck!
+
+Our Google colab notebook is accessible here:
+
+https://colab.research.google.com/drive/1afweuVhFsarVHJT-e1wC-KXwu0SfplVn?usp=sharing
 
 * 1.1 Python introduction/review
 * 1.2 DNA and the Central Dogma of Biology
@@ -23,8 +27,8 @@ S1 - DNA Sequence Analysis + Python
   * Challenge #1
   
 
-11:30 – 12:30 Lunch Break and Microsoft Teams Q&A
-<insert Teams link>
+# 11:30 – 12:30 Lunch Break and Microsoft Teams Q&A
+Please use our class microsoft teams link
   
 12:30 – 1:30 
 S2 - DNA Damage and Repair
