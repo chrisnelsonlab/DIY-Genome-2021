@@ -20,7 +20,7 @@ https://forms.gle/wNdMFgJBy5Ht28Lo9
 Please use our class microsoft teams link
 
   
-## 10:00 – 11:30 S1 - DNA Sequence Analysis + Python
+## S1 10:00 – 11:30 - DNA Sequence Analysis + Python
 
 We will be on the microsoft teams link if you have questions or get stuck!
 
@@ -39,7 +39,7 @@ https://colab.research.google.com/drive/1afweuVhFsarVHJT-e1wC-KXwu0SfplVn?usp=sh
 ## 11:30 – 12:30 Lunch Break and Microsoft Teams Q&A
 Please use our class microsoft teams link
   
-## 12:30 – 1:30 S2 - DNA Damage and Repair
+## S2 12:30 – 1:30 - DNA Damage and Repair
 https://colab.research.google.com/drive/1od4vSYSv4-LWPk7NDoQH5VMc66bfpLpZ?usp=sharing
 
 * 2.1 DNA Damage
@@ -47,7 +47,7 @@ https://colab.research.google.com/drive/1od4vSYSv4-LWPk7NDoQH5VMc66bfpLpZ?usp=sh
 * 2.3 Gene Therapy
 * 2.4 Breaking DNA to fix DNA
   
-## 1:30 – 2:30 S3 - CRISPR, Immunity, and Evolution
+## S3 1:30 – 2:30 - CRISPR, Immunity, and Evolution
 https://colab.research.google.com/drive/1X3pTfCQONvxLAqCzvaypvRzh7NBQG5oc?usp=sharing
 
 * 3.1 CRISPR Repeats
@@ -57,7 +57,7 @@ https://colab.research.google.com/drive/1X3pTfCQONvxLAqCzvaypvRzh7NBQG5oc?usp=sh
 * 3.4 Make your own CRISPR edits!
   * Challenge #3
   
-## 2:30 – 3:30 S4 - Applications and Ethics of Bioengineering with CRISPR
+## S4 2:30 – 3:30 - Applications and Ethics of Bioengineering with CRISPR
 https://colab.research.google.com/drive/169TAfOqSEQZO9q4qkcgstpVisEUhY3yG?usp=sharing
 
 * 4.1 Challenges for gene therapies
