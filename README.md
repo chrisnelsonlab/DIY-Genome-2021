@@ -11,10 +11,13 @@ We will be available to answer questions and discuss throughout the day. We wish
 
 ## Schedule and Links
 
-## 9:00 - Pre class survey
+## 9:00 - Pre class survey and meet on Teams
 Take this survey which will help us improve this course for next year!
 
 https://forms.gle/wNdMFgJBy5Ht28Lo9
+
+Please use our class microsoft teams link when you are done with the survey!
+
 
 ## 9:10 – 10:00 Welcome and Motivation - Live lecture
 Please use our class microsoft teams link
