@@ -66,7 +66,7 @@ https://colab.research.google.com/drive/169TAfOqSEQZO9q4qkcgstpVisEUhY3yG?usp=sh
 * 4.4 Applications for diagnostics
 * 4.5 Ethics
   
-3:30 – 4:00 Wrap up discussion and Q&A.
+## 3:30 – 4:00 Wrap up discussion and Q&A.
 The last thing we will do is meet to discuss the applications and ethics of CRISPR as a group. We will answer poll questions about ethical considerations and discuss future applications of gene editing. 
 
 If you have any questions that come up after the class, feel free to contact me at nelsonc@uark.edu. Thank you for participating in the class. I hope you enjoyed it.
